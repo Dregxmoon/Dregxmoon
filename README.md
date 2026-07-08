@@ -2,7 +2,7 @@
 
 ## 👋 Acerca de mí
 
-Estudiante de **Ingeniería en Sistemas Computacionales** en el ITT. Me apasiona el desarrollo de softwar, pero también disfruto integrar mi lado geek/otaku en los proyectos que realizo.
+Estudiante de **Ingeniería en Sistemas Computacionales** en el ITT. Me apasiona el desarrollo de software, pero también disfruto integrar mi lado geek/otaku en los proyectos que realizo.
 
 ---
 
