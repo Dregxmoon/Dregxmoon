@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:3a0519,100:0d0d0d&height=230&section=header&text=%E9%9D%99%20LUKA%20TORRES%20%E9%9D%99&fontSize=46&fontColor=FF2E63&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%E3%83%BB%20Systems%20Engineering%20Student&descAlignY=58&descSize=17&descColor=00E5FF" width="100%"/>
@@ -187,6 +188,99 @@ Fuera del código soy **geek** y fan del **anime** 🍥 — esa estética de neo
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:B537F2,100:FF2E63&height=3&width=1000" width="100%"/>
 
+<!-- ==================== CONTRIBUCIONES 3D ==================== -->
+<h2 align="center">立体 <sub>— Contribuciones en 3D</sub></h2>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Dregxmoon/Dregxmoon/main/profile-3d-contrib/profile-night-rainbow.svg" width="95%"/>
+
+</div>
+
+<!--
+  CÓMO ACTIVAR EL GRÁFICO 3D DE CONTRIBUCIONES (una sola vez):
+  Convierte tu calendario de commits normal en un paisaje isométrico 3D.
+  Se ve rota hasta que actives esto — es normal, el archivo aún no existe.
+
+  1. En el repo Dregxmoon/Dregxmoon crea: .github/workflows/3d-contrib.yml
+  2. Pega esto:
+
+  name: GitHub Profile 3D Contribution
+  on:
+    schedule:
+      - cron: "0 18 * * *"
+    workflow_dispatch: {}
+  jobs:
+    build:
+      runs-on: ubuntu-latest
+      permissions:
+        contents: write
+      steps:
+        - uses: actions/checkout@v4
+        - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+          env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          with:
+            username: Dregxmoon
+        - name: Commit & Push
+          run: |
+            git config user.name github-actions
+            git config user.email github-actions@github.com
+            git add -A
+            git commit -m "generate profile 3d contribution" || exit 0
+            git push
+
+  3. Ve a Actions > GitHub Profile 3D Contribution > Run workflow (una vez).
+  4. Esto genera la carpeta "profile-3d-contrib/" con varios temas SVG.
+     El de arriba usa "profile-night-rainbow.svg" — puedes cambiar el
+     nombre del archivo en el src por otro tema disponible en esa carpeta
+     (ej. profile-south-pole.svg, profile-day-green.svg, etc.)
+-->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2E63,100:00E5FF&height=3&width=1000" width="100%"/>
+
+<!-- ==================== FEED DE ACTIVIDAD ==================== -->
+<h2 align="center">最近の活動 <sub>— Feed de actividad reciente</sub></h2>
+
+<div align="center">
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</div>
+
+<!--
+  CÓMO ACTIVAR EL FEED DE ACTIVIDAD RECIENTE (una sola vez):
+  Reemplaza automáticamente el bloque entre los marcadores
+  START_SECTION:activity / END_SECTION:activity de arriba con tus
+  últimos 5 eventos reales de GitHub (commits, PRs, issues, estrellas).
+  Mientras no actives el Action, ese bloque se queda vacío — es normal.
+
+  1. En el repo Dregxmoon/Dregxmoon crea: .github/workflows/activity.yml
+  2. Pega esto:
+
+  name: Update README with recent activity
+  on:
+    schedule:
+      - cron: "0 */1 * * *"
+    workflow_dispatch: {}
+  jobs:
+    update-readme:
+      runs-on: ubuntu-latest
+      permissions:
+        contents: write
+      steps:
+        - uses: actions/checkout@v4
+        - uses: jamesgeorge007/github-activity-readme@master
+          env:
+            GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  3. Ve a Actions > Update README with recent activity > Run workflow.
+  4. A partir de ahí se actualiza solo, cada hora.
+-->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:B537F2&height=3&width=1000" width="100%"/>
+
 <!-- ==================== PROYECTOS ==================== -->
 <h2 align="center">プロジェクト <sub>— Proyectos destacados</sub></h2>
 
@@ -354,13 +448,25 @@ Breve descripción del proyecto: qué problema resuelve y qué tecnologías usa.
 
 <div align="center">
 
-| 📺 Actualmente viendo | 🍥 Géneros favoritos | 🎯 Estado del ánimo |
-|:---:|:---:|:---:|
-| _pendiente de actualizar_ | _pendiente de actualizar_ | くつろぎ中 (relajado) |
+| 🍥 Serie | 🎭 Vibe |
+|---|---|
+| Call of the Night (Yofukashi no Uta) | Nocturno, atmosférico, slow-burn |
+| Nazo no Kanojo X | Extraño, romántico, misterioso |
+| Kill la Kill | Acción explosiva, sin freno, estilazo total |
 
-<!-- CAMBIAR AQUÍ: reemplaza estas celdas con lo que realmente estás viendo/te gusta. No se inventaron títulos porque no se proporcionó esa información. -->
+<!-- CAMBIAR AQUÍ: agrega o quita series conforme cambien tus favoritos. No se usaron imágenes/logos oficiales de estas series por derechos de autor — solo texto. -->
 
 </div>
+
+<div align="center">
+
+<a href="https://www.crunchyroll.com/user/tu-usuario">
+  <img src="https://img.shields.io/badge/Crunchyroll-0d0d0d?style=for-the-badge&logo=crunchyroll&logoColor=FF2E63" />
+</a>
+
+</div>
+
+<!-- CAMBIAR AQUÍ: reemplaza "tu-usuario" por tu perfil real de Crunchyroll (o quita este badge si no quieres mostrarlo) -->
 
 <div align="center">
 <sub>👀 Si llegaste hasta aquí abajo, felicidades — ya viste toda la sala secreta. Vuelve pronto, senpai.</sub>
