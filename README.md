@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:3a0519,100:0d0d0d&height=180&section=header&text=%E9%9D%99%20LUKA%20TORRES%20%E9%9D%99&fontSize=42&fontColor=FF2E63&animation=fadeIn&fontAlignY=45&desc=Backend%20Developer%20%E3%83%BB%20Systems%20Engineering%20Student&descAlignY=68&descSize=16&descColor=00E5FF" width="100%"/>
-<sub>「 コードは私の道である 」 — <i>el código es mi camino</i></sub>
+<sub>「 栄光ある目的 」
 
 </div>
 
@@ -47,12 +47,9 @@
 <img width="236" height="79" alt="0a3ea2a5d7d915827900bb28b3ca7c1a" src="https://github.com/user-attachments/assets/cd846c83-0539-4bc7-8e07-059eade99564" />
 
 
-Soy **Luka Torres**, estudiante de **Ingeniería en Sistemas Computacionales** en el **Instituto Tecnológico de Tijuana (ITT)**. Me apasiona el desarrollo de software, especialmente el **backend**, donde disfruto diseñar lógica sólida, estructurar datos y construir sistemas que funcionan bien detrás de escena.
+Estudiante de **Ingeniería en Sistemas Computacionales** en el **Instituto Tecnológico de Tijuana (ITT)**. Me gusta el desarrollo de software, especialmente el **backend** aunque no desaprovecharia la oportunidad de aprender y experimentar en Frontend, donde disfruto diseñar lógica sólida, estructurar datos y construir sistemas que funcionan bien detrás del todo.
 
-Actualmente exploro **inteligencia artificial**, **automatización** y **APIs**, buscando entender cómo conectar sistemas de forma eficiente y escalable.
-
-Fuera del código soy **geek** y fan del **anime** 🍥 — esa estética de neones, ciudades nocturnas y tecnología futurista influye en cómo veo el desarrollo: cada sistema como un mundo por explorar.
-
+Actualmente exploro **inteligencia artificial**, **automatización** y **Redes**, buscando entender cómo conectar sistemas de forma eficiente y escalable.
 </td>
 <td width="40%" valign="top">
 
@@ -62,8 +59,6 @@ Fuera del código soy **geek** y fan del **anime** 🍥 — esa estética de neo
 専攻 (Carrera): Ing. en Sistemas Computacionales
 学校 (Institución): ITT
 状態 (Estado): Estudiante activo
-興味 (Interés): Backend Development
-モード (Modo): 学習中 (aprendiendo)
 ```
 
 <img width="626" height="220" alt="6085-toga-himiko" src="https://github.com/user-attachments/assets/53c658ef-f69f-4678-8368-38be10de382f" />
@@ -92,7 +87,7 @@ Fuera del código soy **geek** y fan del **anime** 🍥 — esa estética de neo
 | **Frameworks / Plataformas** | .NET |
 | **Web** | HTML5 ・ CSS3 |
 | **Bases de datos** | SQL Server |
-| **Áreas de interés** | Automatización ・ Inteligencia Artificial  ・ Desarrollo Web |
+| **Áreas de interés** | Automatización ・ Inteligencia Artificial  ・ Desarrollo Web ・ Redes |
 
 </div>
 
