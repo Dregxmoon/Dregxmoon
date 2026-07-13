@@ -1,6 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:3a0519,100:0d0d0d&height=230&section=header&text=%E9%9D%99%20LUKA%20TORRES%20%E9%9D%99&fontSize=46&fontColor=FF2E63&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%E3%83%BB%20Systems%20Engineering%20Student&descAlignY=58&descSize=17&descColor=00E5FF" width="100%"/>
+<img src="https://raw.githubusercontent.com/Dregxmoon/Dregxmoon/main/banner-gif.svg" width="100%"/>
+
+<!--
+  CAMBIAR AQUÍ: este banner reemplaza al de capsule-render y usa TU GIF
+  como fondo animado. Pasos:
+
+  1. Abre el archivo "banner-gif.svg" (te lo di aparte).
+  2. Busca "URL_DE_TU_GIF_AQUI" dentro de ese archivo y reemplázalo por
+     el link directo a tu GIF (clic derecho sobre el GIF que elijas →
+     "Copiar dirección de la imagen").
+  3. Sube ese archivo "banner-gif.svg" a la raíz de tu repo
+     Dregxmoon/Dregxmoon (Add file > Upload files).
+  4. Listo, el <img> de arriba ya apunta a ese archivo.
+
+  Si tu GIF se ve recortado raro (por ejemplo si es muy vertical),
+  puedes ajustar dentro de banner-gif.svg el atributo
+  preserveAspectRatio="xMidYMid slice" por "xMidYMid meet" para que se
+  vea completo sin recortar (puede dejar franjas vacías a los lados).
+-->
 
 <sub>「 コードは私の道である 」 — <i>el código es mi camino</i></sub>
 
@@ -39,34 +57,6 @@
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2E63,100:00E5FF&height=3&width=1000" width="100%"/>
-
-<!-- ==================== GIF ==================== -->
-<div align="center">
-
-<img src="https://tenor.com/kYl6kjlTxmG.gif" width="100%"/>
-
-</div>
-
-<!--
-  CAMBIAR AQUÍ: reemplaza "URL_DE_TU_GIF_AQUI" con el link directo a tu GIF.
-
-  Cómo conseguir el link directo (no el link de la página, el de la imagen):
-  1. Busca el GIF que quieras (Tenor, Giphy, o donde sea).
-  2. Clic derecho sobre el GIF → "Copiar dirección de la imagen" /
-     "Copy image address" (NO "copiar enlace de la página").
-  3. La URL debe terminar en .gif (o a veces .webp/.mp4 si es de Tenor,
-     también funciona igual en un tag <img>).
-  4. Pega esa URL exacta reemplazando "URL_DE_TU_GIF_AQUI" arriba.
-
-  Ejemplo de cómo se ve una URL correcta:
-  https://media.tenor.com/xxxxxxxxxxxx/nombre-del-gif.gif
-
-  Tip de tamaño: si el GIF es muy ancho o muy alto y se ve raro, cambia
-  width="100%" por algo como width="500" para controlar el tamaño exacto
-  en píxeles en vez de que ocupe todo el ancho.
--->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:B537F2&height=3&width=1000" width="100%"/>
 
 <!-- ==================== SOBRE MÍ ==================== -->
 <h2 align="center">自己紹介 <sub>— Sobre mí</sub></h2>
