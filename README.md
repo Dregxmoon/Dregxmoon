@@ -1,4 +1,6 @@
 
+
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:3a0519,100:0d0d0d&height=180&section=header&text=%E9%9D%99%20LUKA%20TORRES%20%E9%9D%99&fontSize=42&fontColor=FF2E63&animation=fadeIn&fontAlignY=45&desc=Backend%20Developer%20%E3%83%BB%20Systems%20Engineering%20Student&descAlignY=68&descSize=16&descColor=00E5FF" width="100%"/>
@@ -46,6 +48,7 @@
 <table width="100%">
 <tr>
 <td width="60%" valign="top">
+<img width="626" height="220" alt="6085-toga-himiko" src="https://github.com/user-attachments/assets/53c658ef-f69f-4678-8368-38be10de382f" />
 
 Soy **Luka Torres**, estudiante de **Ingeniería en Sistemas Computacionales** en el **Instituto Tecnológico de Tijuana (ITT)**. Me apasiona el desarrollo de software, especialmente el **backend**, donde disfruto diseñar lógica sólida, estructurar datos y construir sistemas que funcionan bien detrás de escena.
 
@@ -65,9 +68,11 @@ Fuera del código soy **geek** y fan del **anime** 🍥 — esa estética de neo
 興味 (Interés): Backend Development
 モード (Modo): 学習中 (aprendiendo)
 ```
+<img width="236" height="79" alt="0a3ea2a5d7d915827900bb28b3ca7c1a" src="https://github.com/user-attachments/assets/cd846c83-0539-4bc7-8e07-059eade99564" />
 
 </td>
 </tr>
+
 </table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:B537F2&height=3&width=1000" width="100%"/>
@@ -100,19 +105,19 @@ Fuera del código soy **geek** y fan del **anime** 🍥 — esa estética de neo
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Dregxmoon/Dregxmoon/main/profile/stats.svg" width="49%"/>
-<img src="https://streak-stats.demolab.com?user=Dregxmoon&theme=dark&hide_border=true&background=0D0D0D&stroke=FF2E63&ring=00E5FF&fire=FF2E63&currStreakLabel=00E5FF" width="49%"/>
+<img
+  src="https://streak-stats.demolab.com?user=Dregxmoon&theme=dark&hide_border=true&background=0D0D0D&stroke=FF2E63&ring=00E5FF&fire=FF2E63&currStreakLabel=00E5FF"
+  width="80%"
+/>
 
-<img src="https://raw.githubusercontent.com/Dregxmoon/Dregxmoon/main/profile/top-langs.svg" width="45%"/>
+<br><br>
+
+<img
+  src="https://raw.githubusercontent.com/Dregxmoon/Dregxmoon/main/profile/top-langs.svg"
+  width="55%"
+/>
 
 </div>
-
-<h3 align="center">足跡 <sub>— Huella de contribuciones</sub></h3>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dregxmoon&theme=react-dark&bg_color=0d0d0d&color=00E5FF&line=FF2E63&point=B537F2&area=true&area_color=FF2E63&hide_border=true" width="95%"/>
-
 
 <!-- ==================== SNAKE ANIMATION ==================== -->
 <h2 align="center">蛇 <sub>— Actividad de contribuciones</sub></h2>
@@ -128,47 +133,6 @@ Fuera del código soy **geek** y fan del **anime** 🍥 — esa estética de neo
 
 
 
-<!-- ==================== FEED DE ACTIVIDAD ==================== -->
-<h2 align="center">最近の活動 <sub>— Feed de actividad reciente</sub></h2>
-
-<div align="center">
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-</div>
-
-<!--
-  CÓMO ACTIVAR EL FEED DE ACTIVIDAD RECIENTE (una sola vez):
-  Reemplaza automáticamente el bloque entre los marcadores
-  START_SECTION:activity / END_SECTION:activity de arriba con tus
-  últimos 5 eventos reales de GitHub (commits, PRs, issues, estrellas).
-  Mientras no actives el Action, ese bloque se queda vacío — es normal.
-
-  1. En el repo Dregxmoon/Dregxmoon crea: .github/workflows/activity.yml
-  2. Pega esto:
-
-  name: Update README with recent activity
-  on:
-    schedule:
-      - cron: "0 */1 * * *"
-    workflow_dispatch: {}
-  jobs:
-    update-readme:
-      runs-on: ubuntu-latest
-      permissions:
-        contents: write
-      steps:
-        - uses: actions/checkout@v4
-        - uses: jamesgeorge007/github-activity-readme@master
-          env:
-            GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-  3. Ve a Actions > Update README with recent activity > Run workflow.
-  4. A partir de ahí se actualiza solo, cada hora.
--->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:B537F2&height=3&width=1000" width="100%"/>
 
 <!-- ==================== PROYECTOS ==================== -->
 <h2 align="center">プロジェクト <sub>— Proyectos destacados</sub></h2>
