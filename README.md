@@ -1,6 +1,3 @@
-
-
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:3a0519,100:0d0d0d&height=180&section=header&text=%E9%9D%99%20LUKA%20TORRES%20%E9%9D%99&fontSize=42&fontColor=FF2E63&animation=fadeIn&fontAlignY=45&desc=Backend%20Developer%20%E3%83%BB%20Systems%20Engineering%20Student&descAlignY=68&descSize=16&descColor=00E5FF" width="100%"/>
@@ -25,18 +22,17 @@
   <img src="https://komarev.com/ghpvc/?username=Dregxmoon&label=Visitas%20al%20dojo&color=FF2E63&style=for-the-badge&labelColor=0d0d0d" alt="visitor count"/>
 </p>
 
-<!-- CAMBIAR AQUÍ: reemplaza "Dregxmoon" por tu usuario en el contador de visitas -->
 
 <div align="center">
 
-```
-瓦 SYSTEM LOG ─────────────────────────────
-> USER........... Luka Torres (Dregxmoon)
-> ROL............. Systems Engineering Student
-> STACK........... C# ・ .NET ・ Python ・ Java ・ SQL Server
-> ESTADO........... Compilando conocimiento... [OK]
-─────────────────────────────────────────
-```
+
+<table width="100%">
+<tr>
+<td width="60%" valign="top">
+<img width="500" height="247" alt="ea57ec79c97c810813521d3fad84e3cc" src="https://github.com/user-attachments/assets/ba0db10e-dcf5-46e9-8640-b8ecdf1753f8" />
+
+</td>
+</table>
 
 </div>
 
