@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Dregxmoon/Dregxmoon/main/manga-banner-final.svg" width="100%"/>
-
+<img src="https://raw.githubusercontent.com/Dregxmoon/Dregxmoon/main/melt-banner-final.svg" width="100%"/>
 </div>
 
 <!-- ==================== TYPING SVG ==================== -->
