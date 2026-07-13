@@ -40,6 +40,34 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2E63,100:00E5FF&height=3&width=1000" width="100%"/>
 
+<!-- ==================== GIF ==================== -->
+<div align="center">
+
+<img src="https://tenor.com/kYl6kjlTxmG.gif" width="100%"/>
+
+</div>
+
+<!--
+  CAMBIAR AQUÍ: reemplaza "URL_DE_TU_GIF_AQUI" con el link directo a tu GIF.
+
+  Cómo conseguir el link directo (no el link de la página, el de la imagen):
+  1. Busca el GIF que quieras (Tenor, Giphy, o donde sea).
+  2. Clic derecho sobre el GIF → "Copiar dirección de la imagen" /
+     "Copy image address" (NO "copiar enlace de la página").
+  3. La URL debe terminar en .gif (o a veces .webp/.mp4 si es de Tenor,
+     también funciona igual en un tag <img>).
+  4. Pega esa URL exacta reemplazando "URL_DE_TU_GIF_AQUI" arriba.
+
+  Ejemplo de cómo se ve una URL correcta:
+  https://media.tenor.com/xxxxxxxxxxxx/nombre-del-gif.gif
+
+  Tip de tamaño: si el GIF es muy ancho o muy alto y se ve raro, cambia
+  width="100%" por algo como width="500" para controlar el tamaño exacto
+  en píxeles en vez de que ocupe todo el ancho.
+-->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:B537F2&height=3&width=1000" width="100%"/>
+
 <!-- ==================== SOBRE MÍ ==================== -->
 <h2 align="center">自己紹介 <sub>— Sobre mí</sub></h2>
 
