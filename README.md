@@ -1,7 +1,6 @@
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Dregxmoon/Dregxmoon/main/manga-banner-final.svg" width="100%"/>
-<sub>「 栄光ある目的 」
 
 </div>
 
