@@ -6,11 +6,6 @@
 </div>
 
 <!-- ==================== TYPING SVG ==================== -->
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=FF2E63&center=true&vCenter=true&width=650&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%2C+soy+Luka+Torres+%F0%9F%8F%AE;Ingeniero+en+Sistemas+Computacionales;Backend+Developer+%7C+C%23+%2F+.NET+%2F+Python;Explorando+IA%2C+APIs+y+Automatizaci%C3%B3n;Geek+%F0%9F%8D%A5+%7C+Otaku+%F0%9F%8E%8C+%7C+Tokyo-core+dev)](https://git.io/typing-svg)
-
-</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/構築中-status%3A%20online-FF2E63?style=for-the-badge&labelColor=0d0d0d" alt="status"/>
