@@ -1,37 +1,7 @@
-<!--
-  ╔══════════════════════════════════════════════════════════════════╗
-  ║  README.md — 侍 CODE 侍  —  Perfil de Luka Torres (Dregxmoon)      ║
-  ║                                                                    ║
-  ║  Cómo usar este archivo:                                          ║
-  ║  1. Créalo dentro del repositorio especial:                       ║
-  ║     https://github.com/Dregxmoon/Dregxmoon                         ║
-  ║  2. Reemplaza "Dregxmoon" en TODOS los lugares marcados con        ║
-  ║     <!-- CAMBIAR AQUÍ --> si tu usuario cambia.                   ║
-  ║  3. Para la Snake Animation activa el GitHub Action indicado más  ║
-  ║     abajo (una sola vez).                                         ║
-  ║  4. GitHub NO permite <style> ni JavaScript en el README, por eso ║
-  ║     todo el diseño se logra con HTML plano + servicios externos   ║
-  ║     (badges/SVG dinámicos), que es lo único que renderiza 100%    ║
-  ║     de forma confiable dentro de github.com.                      ║
-  ╚══════════════════════════════════════════════════════════════════╝
--->
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:3a0519,100:0d0d0d&height=180&section=header&text=%E9%9D%99%20LUKA%20TORRES%20%E9%9D%99&fontSize=42&fontColor=FF2E63&animation=fadeIn&fontAlignY=45&desc=Backend%20Developer%20%E3%83%BB%20Systems%20Engineering%20Student&descAlignY=68&descSize=16&descColor=00E5FF" width="100%"/>
-
-<img src="https://media1.tenor.com/m/fefVWhRVkgwAAAAd/anko-uguisu-kyouko-mejiro.gif" width="100%"/>
-
-<!--
-  CAMBIAR AQUÍ: si quieres cambiar el GIF, solo reemplaza la URL de
-  arriba por otra que termine en .gif (link directo a la imagen, no al
-  código de embed ni a la página de Tenor).
-
-  Nota técnica: no se puede superponer el título encima del gif como en
-  Discord, porque GitHub no permite ese tipo de capas de CSS en el
-  README. Por eso quedan como dos bloques: título arriba, gif abajo.
--->
-
 <sub>「 コードは私の道である 」 — <i>el código es mi camino</i></sub>
 
 </div>
@@ -119,7 +89,7 @@ Fuera del código soy **geek** y fan del **anime** 🍥 — esa estética de neo
 | **Frameworks / Plataformas** | .NET |
 | **Web** | HTML5 ・ CSS3 |
 | **Bases de datos** | SQL Server |
-| **Áreas de interés** | Automatización ・ Inteligencia Artificial ・ APIs ・ Desarrollo Web |
+| **Áreas de interés** | Automatización ・ Inteligencia Artificial  ・ Desarrollo Web |
 
 </div>
 
@@ -133,62 +103,9 @@ Fuera del código soy **geek** y fan del **anime** 🍥 — esa estética de neo
 <img src="https://raw.githubusercontent.com/Dregxmoon/Dregxmoon/main/profile/stats.svg" width="49%"/>
 <img src="https://streak-stats.demolab.com?user=Dregxmoon&theme=dark&hide_border=true&background=0D0D0D&stroke=FF2E63&ring=00E5FF&fire=FF2E63&currStreakLabel=00E5FF" width="49%"/>
 
-<!-- CAMBIAR AQUÍ: reemplaza "Dregxmoon" por tu usuario en ambas URLs -->
-
 <img src="https://raw.githubusercontent.com/Dregxmoon/Dregxmoon/main/profile/top-langs.svg" width="45%"/>
 
 </div>
-
-<!--
-  CÓMO ACTIVAR LAS TARJETAS DE STATS Y TOP LANGUAGES (una sola vez):
-  Estas dos ahora se generan como archivos SVG fijos dentro de TU PROPIO
-  repo (carpeta "profile/"), en vez de depender del servicio público
-  compartido de Vercel (que se satura seguido con miles de usuarios a
-  la vez y por eso fallaba). Mientras no actives esto, se ven rotas.
-
-  1. En el repo Dregxmoon/Dregxmoon crea: .github/workflows/stats.yml
-  2. Pega esto:
-
-  name: Update README cards
-  on:
-    schedule:
-      - cron: "0 0 * * *"
-    workflow_dispatch: {}
-  jobs:
-    build:
-      runs-on: ubuntu-latest
-      permissions:
-        contents: write
-      steps:
-        - uses: actions/checkout@v4
-        - name: Generate stats card
-          uses: stats-organization/github-readme-stats-action@v2
-          with:
-            card: stats
-            options: username=Dregxmoon&show_icons=true&theme=red&hide_border=true&bg_color=0d0d0d&title_color=FF2E63&icon_color=00E5FF&text_color=e6e6e6
-            path: profile/stats.svg
-            token: ${{ secrets.GITHUB_TOKEN }}
-        - name: Generate top languages card
-          uses: stats-organization/github-readme-stats-action@v2
-          with:
-            card: top-langs
-            options: username=Dregxmoon&layout=compact&theme=red&hide_border=true&bg_color=0d0d0d&title_color=FF2E63&text_color=e6e6e6&langs_count=8
-            path: profile/top-langs.svg
-            token: ${{ secrets.GITHUB_TOKEN }}
-        - name: Commit cards
-          run: |
-            git config user.name "github-actions"
-            git config user.email "github-actions@github.com"
-            git add profile/*.svg
-            git commit -m "update readme cards" || exit 0
-            git push
-
-  3. Ve a Actions > Update README cards > Run workflow (una vez).
-  4. Esto crea la carpeta "profile/" con stats.svg y top-langs.svg.
-     A partir de ahí se actualizan solas cada día — y ya NO dependen
-     del servicio compartido de Vercel, así que no deberían volver a
-     fallar por saturación.
--->
 
 <h3 align="center">足跡 <sub>— Huella de contribuciones</sub></h3>
 
@@ -196,70 +113,6 @@ Fuera del código soy **geek** y fan del **anime** 🍥 — esa estética de neo
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dregxmoon&theme=react-dark&bg_color=0d0d0d&color=00E5FF&line=FF2E63&point=B537F2&area=true&area_color=FF2E63&hide_border=true" width="95%"/>
 
-<!-- CAMBIAR AQUÍ: reemplaza "Dregxmoon" por tu usuario -->
-
-</div>
-
-> ⚠️ **Nota:** el gráfico de "huella de contribuciones" y el streak siguen usando servicios externos en vivo (DemoLab, Vercel). Si alguno no carga a la primera, recarga la página. Los que sí daban problemas seguido (stats y top languages) ya se generan dentro de tu propio repo, como se explica arriba.
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2E63,100:00E5FF&height=3&width=1000" width="100%"/>
-
-<!-- ==================== TROFEOS ==================== -->
-<h2 align="center">トロフィー <sub>— Trofeos</sub></h2>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Dregxmoon/Dregxmoon/main/profile/trophy.svg" />
-
-</div>
-
-<!--
-  CÓMO ACTIVAR EL TROFEO (una sola vez):
-  Igual que las stats: se genera como SVG fijo en tu repo en vez de
-  depender del servicio público de Vercel, que es justo el que te
-  estaba fallando.
-
-  1. En el repo Dregxmoon/Dregxmoon crea: .github/workflows/trophy.yml
-  2. Pega esto:
-
-  name: Generate Trophy
-  on:
-    schedule:
-      - cron: "0 0 * * *"
-    workflow_dispatch: {}
-  jobs:
-    build:
-      runs-on: ubuntu-latest
-      permissions:
-        contents: write
-      steps:
-        - uses: actions/checkout@v4
-        - name: Generate trophy
-          uses: Erik-Donath/github-profile-trophy@feature/generate-svg
-          with:
-            username: Dregxmoon
-            output_path: profile/trophy.svg
-            token: ${{ secrets.GITHUB_TOKEN }}
-        - name: Commit trophy
-          run: |
-            git config user.name "github-actions"
-            git config user.email "github-actions@github.com"
-            git add profile/trophy.svg
-            git commit -m "update trophy" || exit 0
-            git push
-
-  3. Ve a Actions > Generate Trophy > Run workflow (una vez).
-  4. Esto crea "profile/trophy.svg". Se actualiza solo cada día.
-
-  Nota: esta Action usa una rama "feature" del proyecto (todavía no
-  está en su versión estable principal), así que es mantenida por la
-  comunidad y podría cambiar en el futuro. Si en algún momento deja de
-  funcionar, la alternativa más simple es volver momentáneamente a la
-  URL pública de siempre:
-  https://github-profile-trophy.vercel.app/?username=Dregxmoon&theme=onedark&no-frame=true&no-bg=true
--->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:B537F2&height=3&width=1000" width="100%"/>
 
 <!-- ==================== SNAKE ANIMATION ==================== -->
 <h2 align="center">蛇 <sub>— Actividad de contribuciones</sub></h2>
