@@ -1,23 +1,35 @@
+<!--
+  ╔══════════════════════════════════════════════════════════════════╗
+  ║  README.md — 侍 CODE 侍  —  Perfil de Luka Torres (Dregxmoon)      ║
+  ║                                                                    ║
+  ║  Cómo usar este archivo:                                          ║
+  ║  1. Créalo dentro del repositorio especial:                       ║
+  ║     https://github.com/Dregxmoon/Dregxmoon                         ║
+  ║  2. Reemplaza "Dregxmoon" en TODOS los lugares marcados con        ║
+  ║     <!-- CAMBIAR AQUÍ --> si tu usuario cambia.                   ║
+  ║  3. Para la Snake Animation activa el GitHub Action indicado más  ║
+  ║     abajo (una sola vez).                                         ║
+  ║  4. GitHub NO permite <style> ni JavaScript en el README, por eso ║
+  ║     todo el diseño se logra con HTML plano + servicios externos   ║
+  ║     (badges/SVG dinámicos), que es lo único que renderiza 100%    ║
+  ║     de forma confiable dentro de github.com.                      ║
+  ╚══════════════════════════════════════════════════════════════════╝
+-->
+
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Dregxmoon/Dregxmoon/main/banner-gif.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:3a0519,100:0d0d0d&height=180&section=header&text=%E9%9D%99%20LUKA%20TORRES%20%E9%9D%99&fontSize=42&fontColor=FF2E63&animation=fadeIn&fontAlignY=45&desc=Backend%20Developer%20%E3%83%BB%20Systems%20Engineering%20Student&descAlignY=68&descSize=16&descColor=00E5FF" width="100%"/>
+
+<img src="https://media1.tenor.com/m/fefVWhRVkgwAAAAd/anko-uguisu-kyouko-mejiro.gif" width="100%"/>
 
 <!--
-  CAMBIAR AQUÍ: este banner reemplaza al de capsule-render y usa TU GIF
-  como fondo animado. Pasos:
+  CAMBIAR AQUÍ: si quieres cambiar el GIF, solo reemplaza la URL de
+  arriba por otra que termine en .gif (link directo a la imagen, no al
+  código de embed ni a la página de Tenor).
 
-  1. Abre el archivo "banner-gif.svg" (te lo di aparte).
-  2. Busca "URL_DE_TU_GIF_AQUI" dentro de ese archivo y reemplázalo por
-     el link directo a tu GIF (clic derecho sobre el GIF que elijas →
-     "Copiar dirección de la imagen").
-  3. Sube ese archivo "banner-gif.svg" a la raíz de tu repo
-     Dregxmoon/Dregxmoon (Add file > Upload files).
-  4. Listo, el <img> de arriba ya apunta a ese archivo.
-
-  Si tu GIF se ve recortado raro (por ejemplo si es muy vertical),
-  puedes ajustar dentro de banner-gif.svg el atributo
-  preserveAspectRatio="xMidYMid slice" por "xMidYMid meet" para que se
-  vea completo sin recortar (puede dejar franjas vacías a los lados).
+  Nota técnica: no se puede superponer el título encima del gif como en
+  Discord, porque GitHub no permite ese tipo de capas de CSS en el
+  README. Por eso quedan como dos bloques: título arriba, gif abajo.
 -->
 
 <sub>「 コードは私の道である 」 — <i>el código es mi camino</i></sub>
