@@ -15,6 +15,9 @@ jobs:
         with:
           username: Dregxmoon
           file: profile/trophy.svg
+          theme: radical
+          no-background: true
+          no-frame: true
           token: ${{ secrets.GITHUB_TOKEN }}
       - name: Commit trophy
         run: |
