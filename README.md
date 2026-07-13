@@ -123,96 +123,10 @@ Fuera del código soy **geek** y fan del **anime** 🍥 — esa estética de neo
 
 </div>
 
-<!--
-  CÓMO ACTIVAR LA SNAKE ANIMATION (una sola vez):
-  Esta imagen SOLO aparece después de configurar un GitHub Action.
-  Si ahora mismo se ve rota, es normal — todavía no existe ese archivo.
-
-  1. En el repo Dregxmoon/Dregxmoon crea: .github/workflows/snake.yml
-  2. Pega esto:
-
-  name: Generate Snake
-  on:
-    schedule:
-      - cron: "0 0 * * *"
-    workflow_dispatch: {}
-    push:
-      branches:
-        - main
-  jobs:
-    generate:
-      runs-on: ubuntu-latest
-      permissions:
-        contents: write
-      steps:
-        - uses: Platane/snk@v3
-          with:
-            github_user_name: Dregxmoon
-            outputs: |
-              dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        - uses: crazy-max/ghaction-github-pages@v4
-          with:
-            target_branch: output
-            build_dir: dist
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-  3. Ve a la pestaña Actions > Generate Snake > Run workflow (ejecútalo una vez).
-  4. Esto crea la rama "output" con el SVG. Desde ahí se actualizará solo cada día.
--->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:B537F2,100:FF2E63&height=3&width=1000" width="100%"/>
 
-<!-- ==================== CONTRIBUCIONES 3D ==================== -->
-<h2 align="center">立体 <sub>— Contribuciones en 3D</sub></h2>
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Dregxmoon/Dregxmoon/main/profile-3d-contrib/profile-night-rainbow.svg" width="95%"/>
-
-</div>
-
-<!--
-  CÓMO ACTIVAR EL GRÁFICO 3D DE CONTRIBUCIONES (una sola vez):
-  Convierte tu calendario de commits normal en un paisaje isométrico 3D.
-  Se ve rota hasta que actives esto — es normal, el archivo aún no existe.
-
-  1. En el repo Dregxmoon/Dregxmoon crea: .github/workflows/3d-contrib.yml
-  2. Pega esto:
-
-  name: GitHub Profile 3D Contribution
-  on:
-    schedule:
-      - cron: "0 18 * * *"
-    workflow_dispatch: {}
-  jobs:
-    build:
-      runs-on: ubuntu-latest
-      permissions:
-        contents: write
-      steps:
-        - uses: actions/checkout@v4
-        - uses: yoshi389111/github-profile-3d-contrib@0.7.1
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          with:
-            username: Dregxmoon
-        - name: Commit & Push
-          run: |
-            git config user.name github-actions
-            git config user.email github-actions@github.com
-            git add -A
-            git commit -m "generate profile 3d contribution" || exit 0
-            git push
-
-  3. Ve a Actions > GitHub Profile 3D Contribution > Run workflow (una vez).
-  4. Esto genera la carpeta "profile-3d-contrib/" con varios temas SVG.
-     El de arriba usa "profile-night-rainbow.svg" — puedes cambiar el
-     nombre del archivo en el src por otro tema disponible en esa carpeta
-     (ej. profile-south-pole.svg, profile-day-green.svg, etc.)
--->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2E63,100:00E5FF&height=3&width=1000" width="100%"/>
 
 <!-- ==================== FEED DE ACTIVIDAD ==================== -->
 <h2 align="center">最近の活動 <sub>— Feed de actividad reciente</sub></h2>
