@@ -266,10 +266,7 @@ Breve descripción del proyecto: qué problema resuelve y qué tecnologías usa.
 </a>
 
 <div align="center">
-  <img
-    src="https://github.com/user-attachments/assets/80dfef33-3b73-4874-84d7-43e5edc17d1f"
-    alt="Banner"
-  />
+  <img src="Assets/descarga.gif" alt="Banner" width="100%">
 </div>
 
 </div>
