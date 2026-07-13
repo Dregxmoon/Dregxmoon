@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:3a0519,100:0d0d0d&height=180&section=header&text=%E9%9D%99%20LUKA%20TORRES%20%E9%9D%99&fontSize=42&fontColor=FF2E63&animation=fadeIn&fontAlignY=45&desc=Backend%20Developer%20%E3%83%BB%20Systems%20Engineering%20Student&descAlignY=68&descSize=16&descColor=00E5FF" width="100%"/>
+<img src="https://raw.githubusercontent.com/Dregxmoon/Dregxmoon/main/manga-banner-final.svg" width="100%"/>
 <sub>「 栄光ある目的 」
 
 </div>
