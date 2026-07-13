@@ -133,63 +133,6 @@ Fuera del código soy **geek** y fan del **anime** 🍥 — esa estética de neo
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:B537F2,100:FF2E63&height=3&width=1000" width="100%"/>
 
-
-
-
-<!-- ==================== PROYECTOS ==================== -->
-<h2 align="center">プロジェクト <sub>— Proyectos destacados</sub></h2>
-
-
-<div align="center">
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔸 [Nombre del proyecto]
-<!-- CAMBIAR AQUÍ: nombre, descripción y enlace real del repositorio -->
-Breve descripción del proyecto: qué problema resuelve y qué tecnologías usa.
-
-`C#` `.NET` `SQL Server`
-
-[Ver repositorio →](https://github.com/Dregxmoon/nombre-del-repo)
-
-</td>
-<td width="50%" valign="top">
-
-### 🔸 [Nombre del proyecto]
-<!-- CAMBIAR AQUÍ: nombre, descripción y enlace real del repositorio -->
-Breve descripción del proyecto: qué problema resuelve y qué tecnologías usa.
-
-`Python` `API` `Automatización`
-
-[Ver repositorio →](https://github.com/Dregxmoon/nombre-del-repo)
-
-</td>
-</tr>
-</table>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2E63,100:00E5FF&height=3&width=1000" width="100%"/>
-
-<!-- ==================== OBJETIVOS ==================== -->
-<h2 align="center">目標 <sub>— Objetivos actuales</sub></h2>
-
-<div align="center">
-
-- [ ] Profundizar en el desarrollo backend con **.NET**
-- [ ] Fortalecer conocimientos en **SQL Server** y modelado de datos
-- [ ] Explorar **Inteligencia Artificial** aplicada a proyectos reales
-- [ ] Diseñar y consumir **APIs** propias
-- [ ] Aprender más sobre **automatización** de procesos
-- [ ] Construir un portafolio sólido de proyectos backend
-
-</div>
-
-<!-- CAMBIAR AQUÍ: actualiza esta lista conforme avances en tus metas -->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:B537F2&height=3&width=1000" width="100%"/>
-
-
 <!-- ==================== CONTACTO ==================== -->
 <h2 align="center">連絡先 <sub>— Contacto</sub></h2>
 <div align="center">
