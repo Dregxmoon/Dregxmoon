@@ -173,11 +173,6 @@ Fuera del código soy **geek** y fan del **anime** 🍥 — esa estética de neo
 <!-- ==================== PROYECTOS ==================== -->
 <h2 align="center">プロジェクト <sub>— Proyectos destacados</sub></h2>
 
-<!--
-  AÑADE AQUÍ TUS PROYECTOS REALES.
-  No se incluyeron proyectos porque no se proporcionó información sobre ellos.
-  Copia una de las tarjetas de abajo por cada proyecto y reemplaza el contenido.
--->
 
 <div align="center">
 <table>
@@ -207,8 +202,6 @@ Breve descripción del proyecto: qué problema resuelve y qué tecnologías usa.
 </tr>
 </table>
 </div>
-
-> 💡 *Cuando subas más proyectos, agrégalos aquí con capturas, un GIF de demo o badges de tecnologías (skillicons.dev funciona muy bien para esto).*
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2E63,100:00E5FF&height=3&width=1000" width="100%"/>
 
