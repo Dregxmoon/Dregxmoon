@@ -223,32 +223,6 @@ Breve descripción del proyecto: qué problema resuelve y qué tecnologías usa.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:B537F2&height=3&width=1000" width="100%"/>
 
-<!-- ==================== SPOTIFY ==================== -->
-<h2 align="center">🎧 音楽 <sub>— Ahora escuchando</sub></h2>
-
-<div align="center">
-
-<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31efx4c7bfrmhxjjueuyorwsrcgm&redirect=true">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31efx4c7bfrmhxjjueuyorwsrcgm&cover_image=true&theme=default&show_offline=true&background_color=0d0d0d&interchange=false&bar_color=FF2E63&bar_color_cover=false" width="380"/>
-</a>
-
-</div>
-
-<!--
-  Widget de Spotify ya configurado con tu uid: 31efx4c7bfrmhxjjueuyorwsrcgm
-  Proyecto: kittinan/spotify-github-profile.
-
-  Si en algún momento quieres cambiar de tema, colores, o reconectar tu
-  cuenta, vuelve a: https://spotify-github-profile.kittinanx.com/api/login
-
-  Parámetros útiles (se pueden ajustar en la URL):
-  - theme -> default, compact, natemoo-re, novatorem, karaoke,
-    spotify-embed, apple.
-  - show_offline=true -> muestra la última canción escuchada si no
-    estás reproduciendo nada en ese momento.
-  - background_color / bar_color -> ya ajustados a la paleta del
-    perfil (rojo neón FF2E63).
--->
 
 <!-- ==================== CONTACTO ==================== -->
 <h2 align="center">連絡先 <sub>— Contacto</sub></h2>
@@ -264,19 +238,25 @@ Breve descripción del proyecto: qué problema resuelve y qué tecnologías usa.
 <a href="https://discord.com/users/910210277063135353">
   <img src="https://img.shields.io/badge/Discord-0d0d0d?style=for-the-badge&logo=discord&logoColor=FF2E63" />
 </a>
-
-<div align="center">
-  <img src="Assets/descarga.gif" alt="Banner" width="100%">
-</div>
-
 </div>
 
 
 <!-- ==================== FOOTER ==================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:3a0519,100:0d0d0d&height=130&section=footer" width="100%"/>
+<h2 align="center">🎧 音楽 <sub>— Ahora escuchando</sub></h2>
 
-<sub>⚔️ 「 コードと共に生きる 」 — <i>vivir junto al código</i> ・ Luka Torres © 2026</sub>
+<div align="center">
+
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31efx4c7bfrmhxjjueuyorwsrcgm&redirect=true">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31efx4c7bfrmhxjjueuyorwsrcgm&cover_image=true&theme=default&show_offline=true&background_color=0d0d0d&interchange=false&bar_color=FF2E63&bar_color_cover=false" width="380"/>
+</a>
+
+</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:B537F2&height=3&width=1000" width="100%"/>
+
+<div align="center">
+  <img width="750" height="421" alt="a71c09182a1962fe5dbbf70995d1bf34" src="https://github.com/user-attachments/assets/601f450f-a22c-4c76-a3b7-827aa97c72ef" />
+</div>
 
 </div>
