@@ -48,7 +48,8 @@
 <table width="100%">
 <tr>
 <td width="60%" valign="top">
-<img width="626" height="220" alt="6085-toga-himiko" src="https://github.com/user-attachments/assets/53c658ef-f69f-4678-8368-38be10de382f" />
+<img width="236" height="79" alt="0a3ea2a5d7d915827900bb28b3ca7c1a" src="https://github.com/user-attachments/assets/cd846c83-0539-4bc7-8e07-059eade99564" />
+
 
 Soy **Luka Torres**, estudiante de **Ingeniería en Sistemas Computacionales** en el **Instituto Tecnológico de Tijuana (ITT)**. Me apasiona el desarrollo de software, especialmente el **backend**, donde disfruto diseñar lógica sólida, estructurar datos y construir sistemas que funcionan bien detrás de escena.
 
@@ -68,7 +69,8 @@ Fuera del código soy **geek** y fan del **anime** 🍥 — esa estética de neo
 興味 (Interés): Backend Development
 モード (Modo): 学習中 (aprendiendo)
 ```
-<img width="236" height="79" alt="0a3ea2a5d7d915827900bb28b3ca7c1a" src="https://github.com/user-attachments/assets/cd846c83-0539-4bc7-8e07-059eade99564" />
+
+<img width="626" height="220" alt="6085-toga-himiko" src="https://github.com/user-attachments/assets/53c658ef-f69f-4678-8368-38be10de382f" />
 
 </td>
 </tr>
