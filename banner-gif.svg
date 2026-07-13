@@ -26,7 +26,7 @@
 
   <g clip-path="url(#bannerClip)">
     <!-- GIF de fondo: CAMBIAR AQUÍ la URL -->
-    <image href="https://media1.tenor.com/m/aV6mfY86fx8AAAAC/anko-uguisu-kyouko-mejiro.gif" x="0" y="0" width="1000" height="230" preserveAspectRatio="xMidYMid slice"/>
+    <image href="https://media1.tenor.com/m/fefVWhRVkgwAAAAd/anko-uguisu-kyouko-mejiro.gif" x="0" y="0" width="1000" height="230" preserveAspectRatio="xMidYMid slice"/>
 
     <!-- capa oscura encima del gif para que el texto se lea bien -->
     <rect x="0" y="0" width="1000" height="230" fill="url(#darkOverlay)"/>
