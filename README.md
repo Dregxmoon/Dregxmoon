@@ -252,17 +252,8 @@ Breve descripción del proyecto: qué problema resuelve y qué tecnologías usa.
 
 <!-- ==================== CONTACTO ==================== -->
 <h2 align="center">連絡先 <sub>— Contacto</sub></h2>
-
-<div align="center">
-  <img
-    src="https://github.com/user-attachments/assets/80dfef33-3b73-4874-84d7-43e5edc17d1f"
-    alt="Banner"
-  />
-</div>
 <div align="center">
 
-
-<!-- CAMBIAR AQUÍ: reemplaza los enlaces por tus redes reales -->
 <a href="https://github.com/Dregxmoon">
   <img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=FF2E63" />
 </a>
@@ -273,6 +264,13 @@ Breve descripción del proyecto: qué problema resuelve y qué tecnologías usa.
 <a href="https://discord.com/users/910210277063135353">
   <img src="https://img.shields.io/badge/Discord-0d0d0d?style=for-the-badge&logo=discord&logoColor=FF2E63" />
 </a>
+
+<div align="center">
+  <img
+    src="https://github.com/user-attachments/assets/80dfef33-3b73-4874-84d7-43e5edc17d1f"
+    alt="Banner"
+  />
+</div>
 
 </div>
 
