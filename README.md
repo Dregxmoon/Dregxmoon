@@ -261,17 +261,13 @@ Breve descripción del proyecto: qué problema resuelve y qué tecnologías usa.
 <h2 align="center">連絡先 <sub>— Contacto</sub></h2>
 
 <div align="center">
-
-```
-瓦 CHANNEL LOG ────────────────────────────
-> ESTABLECIENDO CONEXIÓN...
-> CANAL........... ABIERTO
-> ESTADO.......... Listo para hablar de código, backend, IA o anime 🍥
-─────────────────────────────────────────
-```
-
+  <img
+    src="[https://github.com/user-attachments/assets/df5aa50e-70c1-4cb0-aa3b-b77fa29c4b6d](https://github.com/user-attachments/assets/7f72e916-81f1-4f7b-8156-3afcee1c71fa)"
+    alt="Banner"
+    width="900"
+    height="220"
+  />
 </div>
-
 <div align="center">
 
 <!-- CAMBIAR AQUÍ: reemplaza los enlaces por tus redes reales -->
