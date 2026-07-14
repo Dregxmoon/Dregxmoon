@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/開発中-developing-FF2E63?style=for-the-badge&labelColor=0d0d0d"/>
   <img src="https://img.shields.io/badge/場所-Tijuana%2C%20MX-00E5FF?style=for-the-badge&labelColor=0d0d0d" alt="location"/>
   <img src="https://img.shields.io/badge/専門-Backend-B537F2?style=for-the-badge&labelColor=0d0d0d" alt="focus"/>
-  <img src="https://img.shields.io/badge/focus-software%20engineering-FF2E63?style=for-the-badge&labelColor=0d0d0d"/>
+  <img src="https://img.shields.io/badge/focus-software%20engineering-1DB954?style=for-the-badge&labelColor=0d0d0d"/>
 </p>
 
 
