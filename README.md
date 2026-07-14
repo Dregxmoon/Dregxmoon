@@ -76,7 +76,7 @@ Actualmente exploro **inteligencia artificial**, **automatización** y **Redes**
 | 分類 (Categoría) | 技術 (Tecnologías) |
 |---|---|
 | **Lenguajes** | C# ・ Python ・ Java |
-| **Frameworks / Plataformas** | .NET |
+| **Frameworks / Plataformas** | .NET ・ Node.js ・ Vite |
 | **Web** | HTML5 ・ CSS3 |
 | **Bases de datos** | SQL Server |
 | **Áreas de interés** | Automatización ・ Inteligencia Artificial  ・ Desarrollo Web ・ Redes |
